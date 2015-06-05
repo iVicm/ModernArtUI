@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ModernArtUI</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="more_info">More information</string>
+    <string name="dialog_text">Inspired by the works of Modern Art masters such as Piet Mondrian and Ben Nicholson.
+    Click below to learn more!
+    </string>
+    <string name="positive_text">Visit MOMA!</string>
+    <string name="negative_text">Not now</string>
+</resources>

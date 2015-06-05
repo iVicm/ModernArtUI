@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="block1">#ff13ff22</color>
+    <color name="block2">#ffff120e</color>
+    <color name="block3">#ffffffff</color>
+    <color name="block4">#ff1a28ff</color>
+    <color name="block5">#ffffee21</color>
+    <color name="block6">#ffd7d7d7</color>
+</resources>
